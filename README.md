@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asif</h1>
-<h2 align="center"> I am a Computer Science Final year student. I love learning and contributing into technologies and Opensource is my daily dose to live</h2>
+<h2 align="center"> $> I am a Computer Science Final year student. I love learning and contributing into new Technologies and OpenSource is my Wine.▉</h2>
 
  <p>
     <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=khanasif786&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
