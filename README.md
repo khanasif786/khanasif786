@@ -3,10 +3,8 @@
 <h2 align="center"> I am a Computer Science Final year student. I love learning and contributing into technologies and Opensource is my daily dose to live</h2>
 
 
-</p>
-
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanasif786&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanasif786&" alt="khanasif786" /></p>
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanasif786&show_icons=true&count_private=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanasif786&theme=radical&" alt="khanasif786" /></p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=khanasif786&theme=darkhub&column=8&margin-w=2&no-frame=true)
 
@@ -18,6 +16,6 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanasif786)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanasif786&layout=compact&theme=radical)
 
 [![Linkedin: asif-khan14](https://img.shields.io/badge/asif-khan14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asif-khan14/)](https://www.linkedin.com/in/asif-khan14/)
