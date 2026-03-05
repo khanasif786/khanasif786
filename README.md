@@ -1,27 +1,45 @@
-<h1 align="center">Hi, I'm Asif</h1>
-<h2 align="center"> $> I am a Computer Science Final year student. I love learning and contributing into new Technologies and OpenSource is my Wine.▉</h2>
+# Asif Khan | アシフ・カーン 
+Handle: **khanasif786**
 
- <p>
-    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=khanasif786&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
-    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=khanasif786&theme=github-dark&border=FEFEFE">
+UAV and Robotics developer. I write firmware, build autonomous systems, and contribute to Open UAV systems like ArduPilot, Px4, Betaflight, Mavlink.  
+GSoC mentor 2025, contributor 2023 and 2024.
 
+UAVとロボティクスの開発者です。ファームウェアの開発、自律システムの構築に加え、ArduPilot、Px4、Betaflight、MavlinkなどのオープンUAVシステムへの貢献も行っています。
+
+---
+
+I have been working with drones and embedded hardware since college. Started with line follower bots on Arduino, ended up writing flight control code that runs on real aircraft. That's the short version.
+
+Most of my work is in **ArduPilot** and **PX4** — flight stack development, MAVLink, GCS tools, camera and gimbal drivers. I do ROS/ROS2 for ground and aerial robots, autonomous navigation, SLAM, and visual tracking. Beyond firmware, I have built custom QGroundControl applications, modified QGC and Mission planners, AirSim and GazeboSim simulations, Control systems for custom frames and developed frontend and backend systems for UAV control and fleet management. I have also worked on drone light shows ,video and trajectory compressions, Swarming with planes and drones.
+
+私の仕事は主に**ArduPilot**と**PX4**で、フライトスタックの開発、MAVLink、GCSツール、カメラとジンバルのドライバーなどです。地上および空中ロボット、自律航法、SLAM、視覚追跡用のROS/ROS2も扱っています。ファームウェア以外にも、カスタムQGroundControlアプリケーションの構築、QGCおよびミッションプランナーの修正、AirSimおよびGazeboSimシミュレーション、カスタムフレーム用の制御システム、UAV制御およびフリート管理用のフロントエンドおよびバックエンドシステムの開発などを行ってきました。また、ドローンのライトショー、ビデオおよび軌道の圧縮、飛行機とドローンのスウォーミングにも取り組んできました。
+
+**Currently Stealth! Lets build something Babe!**
+
+---
+
+**Languages:** C, C++, Python, JavaScript  
+**Flight stacks:** ArduPilot, PX4, MAVLink, MAVProxy  
+**GCS / Simulation:** QGroundControl (Qt), Mission Planner, AirSim, Gazebo, SITL  
+**Robotics:** ROS, ROS2, SLAM, ground and aerial autonomous systems  
+**Hardware:** STM32, Atmega, MSP430, Jetson, Raspberry Pi, MIPI  
+**Other:** Linux Kernel Development, FreeRTOS, OpenCV, video compression, drone light show systems, UAV backend and frontend development, Control Systems
+
+---
+**GSoC 2025** — Mentoring AI Log analysis related tools for ArduPilot
+**GSoC 2024** — Visual Follow-Me for ArduPilot. Object tracking, gimbal control, MAVLink integration. Runs on real hardware.  
+**GSoC 2023** — Camera and gimbal drivers. SiYi zr10 UART driver, SysID tracking, upstream ArduPilot contributions.  
+**IIT Bombay eYSIP 2021** — Autonomous VTOL landing on a moving platform. ROS, PX4, OpenCV.
+
+---
+
+<p>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=khanasif786&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=38D252&title_color=38D252&border_color=30363d" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=khanasif786&theme=github-dark&border=30363d" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="blender" width="110" height="40"/> </a> 
-<a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://www.ros.org/imgs/logo-white.png" alt="ROS" width="130" height="40"/> </a>
+---
 
+[LinkedIn](https://www.linkedin.com/in/asif-khan14/) · asif.kgauri@gmail.com
 
-</p>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanasif786&layout=compact&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE)
-
-[![Linkedin: asif-khan14](https://img.shields.io/badge/asif-khan14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asif-khan14/)](https://www.linkedin.com/in/asif-khan14/)
+Also make music. Servers will eventually live outside my room.
